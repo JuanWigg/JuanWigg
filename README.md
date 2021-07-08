@@ -1,6 +1,6 @@
 ### Boeeeenas 👋
 
-
+![Alt Text](https://www.educaciontrespuntocero.com/wp-content/uploads/2019/06/homer.gif)
 <!--
 **JuanWigg/JuanWigg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
