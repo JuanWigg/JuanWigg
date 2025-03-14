@@ -1,7 +1,7 @@
 ### Hello 👋
 
 ## About me
-I'm a Systems Engineering student, passionate about InfoSec and Infraestructure, trying to learn something new everyday!
+I'm a Systems Engineer, passionate about InfoSec and Infraestructure, trying to learn something new everyday! Currently working at Bitso as a Platform Engineer
 <!--
 **JuanWigg/JuanWigg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
